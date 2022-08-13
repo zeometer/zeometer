@@ -5,13 +5,13 @@ I am currently based in the greater Washington D.C. area in the United States.
 Interested in working together? Please reach out! 👋
 
 - **Contacts**: [**LinkedIn**](https://www.linkedin.com/in/smithzs/), [**E-mail**](mailto:zachstsmith@gmail.com)
-- **Interests**: data (of course), reading, yoga, hiking, coffee
+- **Interests**: data, reading, yoga, hiking, coffee
 
 ## Skills ##
 
 - Excel (advanced)
 - SQL (beginner)
-- Python (in progress)
+- Tableau (in progress)
 
 ## Projects ##
 
