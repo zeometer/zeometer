@@ -4,7 +4,7 @@ My name is Zachary Smith and this is a place wherein I showcase projects I compl
 I am currently based in the greater Washington D.C. area in the United States.
 Interested in working together? Please reach out! 👋
 
-- **Contacts**: [**LinkedIn**](https://www.linkedin.com/in/smithzs/), [**Twitter**](hittps://www.twitter.com/zeometer), [**E-mail**](mailto:zachstsmith@gmail.com)
+- **Contacts**: [**LinkedIn**](https://www.linkedin.com/in/smithzs/), [**Twitter**](https://www.twitter.com/zeometer), [**E-mail**](mailto:zachstsmith@gmail.com)
 - **Interests**: data, reading, yoga, hiking, coffee
 
 ## Skills ##
