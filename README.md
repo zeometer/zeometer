@@ -11,7 +11,7 @@ Interested in working together? Please reach out! 👋
 
 - Excel (advanced)
 - SQL (beginner)
-- Tableau (in progress)
+- Tableau (in progress) - Tableau dashboard [here](https://public.tableau.com/app/profile/zeometer)
 
 ## Projects ##
 
