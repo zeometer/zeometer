@@ -10,8 +10,8 @@ Interested in working together? Please reach out! 👋
 ## Skills ##
 
 - Excel (advanced)
-- SQL (beginner)
-- Tableau (in progress) - Tableau dashboard [here](https://public.tableau.com/app/profile/zeometer)
+- SQL (intermediate)
+- Tableau (beginner) - Tableau dashboard [here](https://public.tableau.com/app/profile/zeometer)
 
 ## Projects ##
 
